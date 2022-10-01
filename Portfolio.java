@@ -8,7 +8,7 @@ public class Portfolio {
 		private double totalValueofShares;
 		public String getStockName() {
 			return stockName;
-		}
+		} 
 		public void setStockName(String stockName) {
 			this.stockName = stockName;
 		}
